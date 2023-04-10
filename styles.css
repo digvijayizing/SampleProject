@@ -1,0 +1,45 @@
+
+.header{
+    position: absolute;
+    left: 326px;
+    top: 0;
+    block-size: auto;
+    font-weight: bolder;
+    font-size: 65px;
+    color: orange;
+}
+#carouselExampleIndicators{
+    width:800px;
+    position: relative;
+    margin-left: 450px;
+}
+
+li{
+    color: orange;
+    font-weight: bolder;
+}
+
+.last{
+    background-color: beige;
+}
+
+.wrapper{
+    align-items: center;
+    justify-content: center;
+}
+.img2{
+    max-width: 45%;
+  
+    float: left;
+}
+.last{
+    align-items: center;
+    justify-content: center;
+}
+
+.sa{
+    max-width: 45%;
+  
+    float: right;
+}
+
